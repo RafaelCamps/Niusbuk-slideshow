@@ -170,7 +170,7 @@
 						</div>
 					</div>
 					<div>
-						<img src="https://www.niusbuk.com/niusbuk_logo.png" alt="llistat incidències">
+						<img src="https://www.niusbuk.com/img/interfaces/Book.png" alt="llistat incidències">
 					</div>
 				</div>
 
@@ -213,7 +213,7 @@
 						</div>
 					</div>
 					<div>
-						<img src="https://www.niusbuk.com/niusbuk_logo.png" alt="llistat incidències">
+						<img src="https://www.niusbuk.com/img/interfaces/Items.png" alt="llistat objectes perduts">
 					</div>
 				</div>
 				
@@ -231,7 +231,7 @@
 						</div>
 					</div>
 					<div>
-						<img src="https://www.niusbuk.com/niusbuk_logo.png" alt="llistat incidències">
+						<img src="https://www.niusbuk.com/img/interfaces/Users.png" alt="llistat usuaris">
 					</div>
 				</div>
 
