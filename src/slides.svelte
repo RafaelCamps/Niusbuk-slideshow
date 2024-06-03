@@ -143,11 +143,9 @@
 			<div class="flex justify-between">
 				
 				<div class="flex flex-col justify-center  w-1/2">
-					<h2 class="text-emerald-600 text-6xl mb-5 w-full ">Disseny de la interfície</h2>
-					<div class="w-full">
-						
-		
-	
+					<h2 class="text-emerald-600 text-5xl mb-5 w-full ">Disseny de la interfície</h2>
+					<div class="flex justify-center">
+						<img src="https://www.niusbuk.com/img/interfaces/Login.png" class="h-[60vh]" alt="llistat incidències">
 					</div>
 				</div>
 				<div class="h-[70vh] w-1/2">
@@ -169,8 +167,8 @@
 							<h2 class="text-2xl">Comunicació hotelera 2.0</h2>
 						</div>
 					</div>
-					<div>
-						<img src="https://www.niusbuk.com/img/interfaces/Book.png" alt="llistat incidències">
+					<div class="flex justify-center">
+						<img src="https://www.niusbuk.com/img/interfaces/Book.png" class="h-[60vh]" alt="llistat incidències">
 					</div>
 				</div>
 
@@ -212,8 +210,8 @@
 							<h2 class="text-2xl">Comunicació hotelera 2.0</h2>
 						</div>
 					</div>
-					<div>
-						<img src="https://www.niusbuk.com/img/interfaces/Items.png" alt="llistat objectes perduts">
+					<div class="flex justify-center">
+						<img src="https://www.niusbuk.com/img/interfaces/Items.png" class="h-[60vh]" alt="llistat objectes perduts">
 					</div>
 				</div>
 				
@@ -230,8 +228,8 @@
 							<h2 class="text-2xl">Comunicació hotelera 2.0</h2>
 						</div>
 					</div>
-					<div>
-						<img src="https://www.niusbuk.com/img/interfaces/Users.png" alt="llistat usuaris">
+					<div class="flex justify-center">
+						<img src="https://www.niusbuk.com/img/interfaces/Users.png" class="h-[60vh]" alt="llistat usuaris">
 					</div>
 				</div>
 
